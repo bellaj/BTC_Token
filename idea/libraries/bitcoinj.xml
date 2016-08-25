@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bitcoinj">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/bitcoinj" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

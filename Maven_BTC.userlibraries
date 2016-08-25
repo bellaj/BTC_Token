@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="bitcoinj">
+    <archive path="C:/Users/Administrator/.m2/repository/org/bitcoinj" />
+  </library>
+</eclipse-userlibraries>
+
