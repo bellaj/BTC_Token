@@ -1,6 +1,11 @@
-# BTC_Token
-Token system based on bitcoin system (op_return)
+# BTC Tokens
+BTC_Tokens system is based on bitcoinj (Java implementation or the Bitcoin Core) providing an access controle Framework for IOT using the Bitcoin Blockchain. 
 
-This project helps users to setup a Lightwight Bitcoin Wallet, send cutsom transactions and generate random tokens.
-Notice:
-To run the code you need to setup a local bitcoin node by installing bitcoin core and to include the bitcoinJ Framwork.
+This project helps users to define the control access policy and ditribute accesss tokens to the requesters. the Tokens are exchanged over cutsom bitcoin transactions.
+
+![Image of BTC tokens Schema](https://s11.postimg.org/90khsvjub/schema.png)
+<br>
+![Image of BTC tokens transaction](https://s15.postimg.org/qtfa361hn/tx1.png)
+**Notice:**
+To run the code you need to setup a local bitcoin node by installing bitcoin core. <br>
+**This project is a poc for a scientific paper.**
