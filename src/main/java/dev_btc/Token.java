@@ -38,7 +38,7 @@
         import java.util.regex.Pattern;
 
 /**
- * Created by badr on 2/2/2016.
+ * Created by badr bellaj on 2/2/2016 as a POC on a private chain
  */
 
 
@@ -265,6 +265,11 @@
 
         return v;
     }
+
+    public static double Generate_token(Address pubkey){
+      //the function core is omitted in the public github repository replaced by a simple random function
+return Math.random();
+    }
     public static void send_token(Address destination,NetworkParameters params,WalletAppKit kit){
         System.out.println(" Give the amount to send :");
         Scanner s=new Scanner(System.in);
@@ -285,7 +290,7 @@
         else {
             try {
                 System.out.println("**************************_Start sending transaction op_return************************************");
-                double rand=Math.random();
+                double rand=Generate_token(destination);
                 Transaction tx = new Transaction(params);
                 tx.addOutput(amount, destination);
                 System.out.println(" Give Token pointer :");

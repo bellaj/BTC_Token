@@ -67,7 +67,7 @@ public class Main_BTC {
     }
     public static void main(String[] args) {
 
-        System.out.println("*********************Devoxx Maroc Coin******************************************");
+        System.out.println("********************* Morocco Coin******************************************");
         // This line makes the log output more compact and easily read, especially when using the JDK log adapter.
          BriefLogFormatter.init();
          final NetworkParameters params = TestNet3Params.get();
@@ -123,7 +123,7 @@ public class Main_BTC {
      //   ti=0.00001;
         Coin amount = Coin.parseCoin(Double.toString(ti));
         System.out.println("# the amount is to "+ti);
-        Address destination = new Address(params,"mfcjN5E6vp2NWpMvH7TM2xvTywzRtNvZWR");//badr aacount
+        Address destination = new Address(params,"mfcjN5E6vp2NWpMvH7TM2xvTywzRtNvZWR");//test aacount
        // Wallet.SendRequest req;
         //req=Wallet.SendRequest.to(destination, amount);
         //req.fee=Coin.parseCoin(Double.toString(0.023456));//Set Fee
