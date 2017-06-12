@@ -1,7 +1,9 @@
-# Fair access Framework (the github repos is just a small part of the project)
-3rd Reward at the CSAW 2016
+3rd Reward at the CSAW 2016.<br>
+# Fair access Framework (the github repos is just a small part of the project and the code is deprecated please contact the team for more details)
+
 <br>
 **Special credit : AAfaf ouaddah (protocol desing)**
+<br>
 **Developement Team : Badr Bellaj Fahd Iaaza James Andro** 
 
 ![alt tag](https://preview.ibb.co/fKho6F/IMG_20161116_155038.jpg )
