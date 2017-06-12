@@ -1,5 +1,8 @@
 # Fair access Framework (the github repos is just a small part of the project)
 3rd Reward at the CSAW 2016
+**Special credit : AAfaf ouaddah (protocol desing)**
+**Developement Team : Badr Bellaj Fahd Iaaza James Andro** 
+
 ![alt tag](https://preview.ibb.co/fKho6F/IMG_20161116_155038.jpg )
 
 FairAccess system is based on bitcoinj (Java implementation or the Bitcoin Core) providing an access control Framework for IOT using the Bitcoin Blockchain. 
@@ -118,5 +121,4 @@ Op_return is opening a debate inside the bitcoin community about if storing non-
 To keep miners verification **  we propose to pay them **
 at this stage we exchange just a token’s hash and not the token itself because, as a security reinforcement we aim to … 
  
-Special credit : AAfaf ouaddah (protocol desing)
-Developement Team : Badr Bellaj Fahd Iaaza James Andro 
+
