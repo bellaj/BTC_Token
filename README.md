@@ -118,4 +118,5 @@ Op_return is opening a debate inside the bitcoin community about if storing non-
 To keep miners verification **  we propose to pay them **
 at this stage we exchange just a token’s hash and not the token itself because, as a security reinforcement we aim to … 
  
-
+Special credit : AAfaf ouaddah (protocol desing)
+Developement Team : Badr Bellaj Fahd Iaaza James Andro 
