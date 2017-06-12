@@ -5,7 +5,7 @@
 <br>
 **Developement Team : Badr Bellaj Fahd Iaaza James Andro** 
 
-<center>![alt tag](https://image.ibb.co/mJ6fqv/aa.jpg)</center>
+ ![alt tag](https://image.ibb.co/mJ6fqv/aa.jpg) 
 
 FairAccess system is based on bitcoinj (Java implementation or the Bitcoin Core) providing an access control Framework for IOT using the Bitcoin Blockchain. 
 FairAccess provides several useful mechanisms using the blockchain. In fact, it is considered as a database or, a policy retrieval point, where all encrypted access control policies for each resource are stored in form of transactions. It plays the role of  a public witness that garantees the correct enforcement of pre-defined access control policies through the consensus mechanims. it serves also as logging databases that ensures auditing functions. Furthermore, it prevents forgery of token through transactions integrity checks and detects token reuse through the double spending detection mechanism
