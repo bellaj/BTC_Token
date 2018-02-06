@@ -14,7 +14,6 @@ This project helps users to define the control access policy and ditribute acces
 
 ![Image of BTC tokens Schema](https://s11.postimg.org/90khsvjub/schema.png)
 <br>
-![Image of BTC tokens transaction](https://s15.postimg.org/qtfa361hn/tx1.png)
 **Notice:**
 To run the code you need to setup a local bitcoin node by installing bitcoin core. <br>
 **This project is a poc for a scientific paper.**
@@ -110,6 +109,7 @@ the transaction output
 `miQQFQse4DwFE9rkMkZ78CwvTHkg3sTJmc` is the address that funded my original transaction
 
 What does a multi-sig transaction look like?
+![Image of BTC tokens transaction](https://s15.postimg.org/qtfa361hn/tx1.png)
 
 #### Program ####
 In order to setup the access control system, we developed a java program using bitcoinj. we list here the important functions:
