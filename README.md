@@ -1,14 +1,15 @@
 3rd Reward at the CSAW 2016.<br>
-# Fair access Framework (the github repos is just a small part of the project and the code is deprecated please contact the team for more details)<br>
+# Fair access Framework (the github repos is just a small part of the project and the code is deprecated please contact the team for updated version)<br>
 
 **Special credit : AAfaf ouaddah (protocol desing)**
 <br>
-**Developement Team : Badr Bellaj Fahd Iaaza James Andro** 
+**Developement Team : Badr Bellaj & James Andro** 
 
  ![alt tag](https://image.ibb.co/mJ6fqv/aa.jpg) 
 
-FairAccess system is based on bitcoinj (Java implementation or the Bitcoin Core) providing an access control Framework for IOT using the Bitcoin Blockchain. 
-FairAccess provides several useful mechanisms using the blockchain. In fact, it is considered as a database or, a policy retrieval point, where all encrypted access control policies for each resource are stored in form of transactions. It plays the role of  a public witness that garantees the correct enforcement of pre-defined access control policies through the consensus mechanims. it serves also as logging databases that ensures auditing functions. Furthermore, it prevents forgery of token through transactions integrity checks and detects token reuse through the double spending detection mechanism
+FairAccess system is an identity management and access control Framework for IOT using the Bitcoin Blockchain. 
+
+FairAccess laverages the blockchain as a resilient database or, a policy retrieval point, where all encrypted access control policies for each resource are stored in form of transactions. It plays the role of  a public witness that garantees the correct enforcement of pre-defined access control policies through the consensus mechanims. it serves also as logging databases that ensures auditing functions. Furthermore, it prevents forgery of token through transactions integrity checks and detects token reuse through the double spending detection mechanism
 This project helps users to define the control access policy and ditribute accesss tokens to the requesters. the Tokens are exchanged over cutsom bitcoin's transactions.
 
 ![Image of BTC tokens Schema](https://s11.postimg.org/90khsvjub/schema.png)
