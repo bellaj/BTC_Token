@@ -3,7 +3,7 @@
 
 **Special credit : AAfaf ouaddah (protocol desing)**
 <br>
-**Developement Team : Badr Bellaj & James Andro** 
+**Developement Team : Badr Bellaj(bellaj.badr@mchain.uk) & James Andro (james@mchain.uk)** 
 
  ![alt tag](https://image.ibb.co/mJ6fqv/aa.jpg) 
 
