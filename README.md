@@ -36,7 +36,7 @@ Detailed information could be found in : (http://www.raspberrypi.org/camera)
 Setting up the camera software
 In order to use the camera module, there are three applications provided, raspistill, raspivid and raspistillyuv. raspistill and raspistillyuv are very similar and are intended for capturing images, raspivid is for capturing video. In this scenario we will use 
 
-raspistill -v -o Token1.jpg
+`raspistill -v -o Token1.jpg`
 The camera will take a picture within 5 second, save it to the file Token1.jpg. by giving the –V option we will get various informational messages.
 Setting up the Bitcoin node. And the wallet
 The bitcoin installation process could be found under this link : http://raspnode.com/diyBitcoin.html
@@ -79,9 +79,9 @@ If A would like to give B access to its controlled resource, he sends an access 
 * The access token 
 A sign this transaction with his private key and sends it to the network. From there, miners verify the transaction, putting it into a transaction block and record it into the blockchain.
 
-`bitcoin-cli getrawtransaction
+`bitcoin-cli getrawtransaction`
 
-"vin" : [
+`"vin" : [
     {
         "txid" : "33e25fd78c075dff3b0474911ca2244c5246cb40b0b34653e2fe1ca6f7c26d46",
         "vout" : 1,
@@ -107,7 +107,7 @@ the transaction output
             ]
         }
     }`
-miQQFQse4DwFE9rkMkZ78CwvTHkg3sTJmc is the address that funded my original transaction
+`miQQFQse4DwFE9rkMkZ78CwvTHkg3sTJmc` is the address that funded my original transaction
 
 What does a multi-sig transaction look like?
 
