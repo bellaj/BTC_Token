@@ -1,5 +1,6 @@
 3rd Reward at the CSAW 2016.<br>
-# Fair access Framework (the github repos is just a small part of the project and the code is deprecated please contact the team for updated version)<br>
+# Fair access Framework
+### (this github repos is just a small part of the project. The code is deprecated please contact the team for updated version)<br>
 
 **Special credit : AAfaf ouaddah (protocol desing)**
 <br>
@@ -20,7 +21,7 @@ To run the code you need to setup a local bitcoin node by installing bitcoin cor
 
 
 
-#### USE CASE:####
+#### USE CASE:
 In this scenario, the system is a home webcam security system. It is built using a raspberry pi 2 board with its dedicated camera .The Raspberry pi is connected to an Ethernet LAN providing a remote access to this system.
 In this case, the camera represent the resource to control access to, in consequence the authorized clients, depending ontheir rights could perform multiple actions (video reording, live streaming, Time-Lapse Photography etc.).
 As a proof of concept, we will take a snapshot and save it on the raspberry pi SD card, define our control policy and give the clients a remote access using a token distribution over our local blockchain. 
