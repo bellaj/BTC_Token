@@ -1,6 +1,6 @@
 3rd Reward at the CSAW 2016.<br>
 # Fair access Framework
-### (this github repos is just a small part of the project. The code is deprecated please contact the team for updated version)<br>
+### (this github repos is just a small part of the project. The code is deprecated please contact the team for an updated version)<br>
 
 **Special credit : AAfaf ouaddah (protocol desing)**
 <br>
